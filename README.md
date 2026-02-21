@@ -1,4 +1,5 @@
 # 🚀 3DS-2026-Avelino: Desenvolvimento de Sistemas
+> 🔗 **Acesse o Portal de Aulas:** [https://jerog1971.github.io/3ds-2026-Avelino/](https://jerog1971.github.io/3ds-2026-Avelino/)
 
 Bem-vindos ao repositório central da disciplina de Desenvolvimento de Sistemas para o **3º Ano do Ensino Médio Técnico**. Este espaço foi criado para centralizar nossos exemplos, exercícios e materiais de aula.
 
